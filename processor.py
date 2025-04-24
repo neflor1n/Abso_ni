@@ -1,4 +1,5 @@
 import sqlite
+import tkinter
 import json, datetime
 
 def validate_record(record):
