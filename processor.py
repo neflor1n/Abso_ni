@@ -1,4 +1,4 @@
-
+import sqlite
 import json, datetime
 
 def validate_record(record):
